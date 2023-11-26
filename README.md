@@ -21,9 +21,7 @@
   <a href = "https://learn.unity.com/u/606bb6d0edbc2a001fc1900e?tab=profile"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatoerickbauer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/%C3%A9rick-bauer-viana/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
 <div> 
   
-  ![snake gif](https://github.com/erickbauerv/erickbauerv/blob/output/github-contribution-grid-snake-dark.svg)
-  
+  ![snake gif](https://github.com/erickbauerv/erickbauerv/blob/output/github-contribution-grid-snake-dark.svg) 
 </div>
