@@ -17,6 +17,9 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt=".NET Framework" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg">
 </div>
+
+##
+
 <div> 
   
   ![snake gif](https://github.com/erickbauerv/erickbauerv/blob/output/github-contribution-grid-snake-dark.svg) 
