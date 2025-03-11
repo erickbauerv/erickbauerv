@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://github.com/erickbauerv">
-  <img width="58.8%" src="https://github-readme-stats.vercel.app/api?username=erickbauerv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="38.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickbauerv&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt=".NET Core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
