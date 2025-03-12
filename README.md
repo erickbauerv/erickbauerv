@@ -1,9 +1,13 @@
-Sou um Desenvolvedor de Software formado em Técnico em Desenvolvimento de Sistemas para Internet na FAQI, com 2 anos de experiência trabalhando como Desenvolvedor Fullstack. Minhas principais experiências foram com o desenvolvimento de um ERP educacional com a utilização de C#, .NET, React e TypeScript.
+<div align="center">
+  <a href="https://github.com/erickbauerv">
+  <img width="58.8%" src="https://github-readme-stats.vercel.app/api?username=erickbauerv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="38.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickbauerv&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt=".NET Core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
   <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
