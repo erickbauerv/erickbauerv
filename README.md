@@ -1,3 +1,5 @@
+Sou um Desenvolvedor de Software formado em Técnico em Desenvolvimento de Sistemas para Internet na FAQI, com 2 anos de experiência trabalhando como Desenvolvedor Fullstack. Minhas principais experiências foram com o desenvolvimento de um ERP educacional com a utilização de C#, .NET, React e TypeScript.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt=".NET Core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
