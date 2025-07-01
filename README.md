@@ -1,27 +1,26 @@
-<div align="center">
-  <a href="https://github.com/erickbauerv">
-  <img width="58.8%" src="https://github-readme-stats.vercel.app/api?username=erickbauerv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="38.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickbauerv&layout=compact&langs_count=7&theme=tokyonight"/>
+Sou um Desenvolvedor de Software formado em Técnico em Desenvolvimento de Sistemas para Internet e atualmente cursando Ensino Superior em Análise e Desenvolvimento de Sistemas. Tenho 2 anos de experiência trabalhando como Desenvolvedor Fullstack. Minhas principais experiências foram com o desenvolvimento de um ERP com a utilização de C#, .NET, SQL Server, Angular e TypeScript.
+
+<br>
+
+**`Técnologias mais utilizadas`**
+
+<div style="display: flex">
+  <img align="center" alt="CSharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt=".NET" height="30" width="30" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg">
+  <img align="center" alt="SQLServer" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Angular" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
+  <img align="center" alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Azure" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
+  <img align="center" alt="Unity" height="30" width="30" src="https://files.rubixdev.de/logos/unity.svg">
+  <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
+<br>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt=".NET Core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt=".NET Framework" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg">
-  <img align="center" alt="SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
-  <img align="center" alt="Unity" height="30" width="40" src="https://files.rubixdev.de/logos/unity.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</div>
-
-##
-
+**`Links`**
 <div> 
-  
-  ![snake gif](https://github.com/erickbauerv/erickbauerv/blob/output/github-contribution-grid-snake-dark.svg) 
+  <a href="mailto:contatoerickbauer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/erick-bauer-viana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
