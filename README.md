@@ -2,7 +2,7 @@ Sou um Desenvolvedor de Software formado em Técnico em Desenvolvimento de Siste
 
 <br>
 
-**`Técnologias mais utilizadas`**
+**`Tecnologias mais utilizadas`**
 
 <div style="display: flex">
   <img align="center" alt="CSharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
