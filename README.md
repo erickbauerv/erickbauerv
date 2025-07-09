@@ -12,9 +12,7 @@ Sou um Desenvolvedor de Software formado em Técnico em Desenvolvimento de Siste
   <img align="center" alt="SQL" height="30" width="30" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
   <img align="center" alt="SQLServer" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
   <img align="center" alt="Git" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg">
-  
   <img align="center" alt="Azure" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
-  <img align="center" alt="Godot" height="30" width="30" src="https://godotengine.org/assets/press/icon_color.svg">
   <img align="center" alt="Unity" height="30" width="30" src="https://files.rubixdev.de/logos/unity.svg">
   <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
