@@ -1,4 +1,4 @@
-Cursando Análise e Desenvolvimento de Sistemas, com formação técnica em informática. Possuo 2 anos de experiência trabalhando como Desenvolvedor de Software utilizando C#, .NET, SQL Server, TypeScript, Angular e estou me especializando em Cloud Computing com foco no ambiente AWS. Busco uma oportunidade de ingressar na área de Cloud Computing. Sou um profissional com experiência em trabalho em equipe e capacidade de adaptabilidade para diferentes cenários.
+Cursando Análise e Desenvolvimento de Sistemas, com formação técnica em informática. Possuo 2 anos de experiência trabalhando como Desenvolvedor de Software utilizando C#, .NET, SQL Server, TypeScript, Angular e estou me especializando em Cloud Computing com foco no ambiente AWS. Busco uma oportunidade de ingressar na área de Cloud Computing.
 
 <br>
 
