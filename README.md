@@ -1,4 +1,4 @@
-Sou um Desenvolvedor de Software formado em Técnico em Informática para Internet e atualmente cursando Superior em Análise e Desenvolvimento de Sistemas. Possuo 2 anos de experiência trabalhando como Desenvolvedor FullStack utilizando C#, .NET, SQL Server, JavaScript, TypeScript e Angular e também estou buscando aprender mais sobre Cloud Computing com foco no ambiente AWS. Sou um profissional com experiência em trabalho em equipe e capacidade de adaptabilidade para diferentes cenários.
+Sou um Desenvolvedor de Software formado em Técnico em Informática para Internet e atualmente cursando Superior em Análise e Desenvolvimento de Sistemas. Possuo 2 anos de experiência trabalhando como Desenvolvedor Full Stack utilizando C#, .NET, Microsoft Azure, Microsoft SQL Server, JavaScript, TypeScript, Angular, React e ExtJS. Também possuo a certificação de AWS Cloud Practitioner e estou buscando aprender mais sobre Cloud Computing e Automação utilizando Python. Sou um profissional com experiência em trabalho em equipe e capacidade de adaptabilidade para diferentes cenários.
 
 <br>
 
